@@ -2,7 +2,7 @@
   "name": "hm-loc-sbi",
   "title": "Harn Standing Bear Inn",
   "description": "Location details and characters for the Standing Bear Inn in Olokand",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "minimumCoreVersion": "0.8.8",
   "compatibleCoreVersion": "0.8.6",
   "authors": [
@@ -50,5 +50,5 @@
   ],
   "url": "https://github.com/toastygm/hm-loc-sbi/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-sbi/master/module.json",
-  "download": "https://github.com/toastygm/hm-loc-sbi/archive/v1.0.0.zip"
+  "download": "https://github.com/toastygm/hm-loc-sbi/archive/v0.0.1.zip"
 }
