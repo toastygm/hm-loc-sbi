@@ -5,20 +5,40 @@
   "version": "1.0.0",
   "minimumCoreVersion": "0.8.8",
   "compatibleCoreVersion": "0.8.6",
-  "minimumSystemVersion": "1.2.19",
-  "systems": ["hm3"],
   "authors": [
     {
       "name": "Tom Rodriguez",
       "discord": "toasty#8538"
     }
   ],
+  "scripts": [
+    "./scripts/init.js"
+  ],
   "packs": [
     {
+      "label": "Standing Bear Inn - Scenes",
+      "entity": "Scene",
+      "name": "standing-bear-inn-scenes",
+      "path": "packs/standing-bear-inn-scenes.db"
+    },
+    {
+      "label": "Standing Bear Inn - Actors",
       "entity": "Actor",
-      "label": "FFF Actors",
-      "name": "fff-actors.db",
-      "path": "packs/fff-actors.db"
+      "name": "standing-bear-inn-actors",
+      "path": "packs/standing-bear-inn-actors.db",
+      "system": "hm3"
+    },
+    {
+      "label": "Standing Bear Inn - Journal",
+      "entity": "JournalEntry",
+      "name": "standing-bear-inn-journal",
+      "path": "packs/standing-bear-inn-journal.db"
+    },
+    {
+      "label": "Standing Bear Inn - Locations",
+      "entity": "JournalEntry",
+      "name": "standing-bear-inn-locations",
+      "path": "packs/standing-bear-inn-locations.db"
     }
   ],
   "dependencies": [

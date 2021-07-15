@@ -22,18 +22,16 @@
   const additionalMacros = [];
   /**
    * creaturePacks is a list of compendium packs to look in for Actors by name (in prioritised order).
-   * The first entry here assumes that you have an Actor pack in your module with the "name" of "actors".
    * Set to the following to disable:
    *   const creaturePacks = [];
    */
-  const creaturePacks = [`${moduleName}.fff-standing-bear-inn`, 'dnd5e.monsters'];
+  const creaturePacks = [`${moduleName}.standing-bear-inn-actors`];
   /**
    * journalPacks is a list of compendium packs to look in for Journals by name (in prioritised order).
-   * The first entry here assumes that you have a Journal pack in your module with the "name" of "journals".
    * Set to the following to disable:
    *   const journalPacks = [];
    */
-  const journalPacks = [`${moduleName}.journals`];
+  const journalPacks = [`${moduleName}.standing-bear-inn-locations`, `${moduleName}.standing-bear-inn-journal`];
   /**
    * macroPacks is a list of compendium packs to look in for Macros by name (in prioritised order).
    * The first entry here assumes that you have a Macro pack in your module with the "name" of "macros".
@@ -49,7 +47,7 @@
    */
   const playlistPacks = [];
 
-/*  Hooks.once('scenePackerReady', ScenePacker => {
+Hooks.once('scenePackerReady', ScenePacker => {
     // Initialise the Scene Packer with your adventure name and module name
     let packer = ScenePacker.Initialise({
       adventureName,
@@ -63,6 +61,10 @@
       additionalMacros,
       allowImportPrompts: true, // Set to false if you don't want the popup
     });
+    if (packer) {
+        console.log(`Module ${moduleName} has been registered with Scene Packer`);
+    } else {
+        console.warn(`Module ${moduleName} could not be registered with Scene Packer`);
+    }
   });
-*/
 })();
