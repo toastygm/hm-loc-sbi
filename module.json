@@ -3,8 +3,8 @@
   "title": "Harn Standing Bear Inn",
   "description": "Location details and characters for the Standing Bear Inn in Olokand",
   "version": "1.0.0",
-  "minimumCoreVersion": "0.8.8",
-  "compatibleCoreVersion": "0.8.6",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.8",
   "authors": [
     {
       "name": "Tom Rodriguez",
