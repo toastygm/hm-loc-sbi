@@ -16,6 +16,6 @@ This module is a fan-written expension of Olokand ([COL #5618](https://secure.co
 
 The origial article for this module can be found on Lythia.com at [The Standing Bear Inn](https://www.lythia.com/harnworld/guilds-trade/the-standing-bear-inn/).
 
-The characters in this module are taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby
+The characters in this module are taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is This module is "[Fanon](https://www.lythia.com/about/publishing-fan-written-material/)", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
 
 Some of the scenes in this module include assets from [Forgotten Adventures](https://www.forgotten-adventures.net/), used with permission.
