@@ -3,19 +3,19 @@ The Standing Bear Inn is a "Location Module" for the Foundry VTT system. It is d
 
 This module was designed for use with the [HârnMaster](https://foundryvtt.com/packages/hm3) system, but is mostly system agnostic so it can be used with any system (except the Actors, which are specific to the HârnMaster system).
 
-*Note:* Some scenes in this module have been designed to work with the [Levels](https://foundryvtt.com/packages/levels) and [Better Roofs](https://foundryvtt.com/packages/betterroofs) modules, but these modules are not required; versions of the scenes have been provided that will work with the Foundry VTT system without these additional modules.
+**Note:** Some scenes in this module have been designed to work with the [Levels](https://foundryvtt.com/packages/levels) and [Better Roofs](https://foundryvtt.com/packages/betterroofs) modules, but these modules are not required; versions of the scenes have been provided that will work with the Foundry VTT system without these additional modules.
 
 # Credits
 
-*Writers:* Rob Barnes, Kerry Mould
+**Writers:** Rob Barnes, Kerry Mould
 
-*Artist:* Richard Luschek
+**Artist:** Richard Luschek
 
-*Plans:* Kerry Mould
+**Plans:** Kerry Mould
 
-*Editing and Layout:* Brent Bailey
+**Editing and Layout:** Brent Bailey
 
-*Conversion to Foundry VTT:* Tom Rodriguez, Stephen Cooper
+**Conversion to Foundry VTT:** Tom Rodriguez, Stephen Cooper
 
 This module is a fan-written expension of Olokand ([COL #5618](https://secure.columbiagames.com/product/5618-PDF)). 
 
