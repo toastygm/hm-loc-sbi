@@ -6,6 +6,8 @@
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
   "bugs": "https://github.com/toastygm/hm-loc-sbi/issues",
+  "license": "LICENSE",
+  "readme": "README.md",
   "authors": [
     {
       "name": "Tom Rodriguez",
