@@ -7,7 +7,7 @@
    * Set to the following to disable:
    *   const welcomeJournal = '';
    */
-  const welcomeJournal = 'Introduction';
+  const welcomeJournal = '_Overview';
   /**
    * additionalJournals will automatically be imported.
    * Set to the following to disable:
