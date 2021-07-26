@@ -1,4 +1,7 @@
 # HârnWorld Location Module: The Standing Bear Inn
+
+![Standing Bear Inn](assets/images/standing-bear-inn.webp)
+
 The Standing Bear Inn is a "Location Module" for the Foundry VTT system. It is designed to depict the Standing Bear Inn in the city of Olokand, kingdom of Kaldor, on the island of Hârn in the [HârnWorld](https://columbiagames.com/harnworld/) fantasy setting; however, this Inn could be adapted to exist anywhere in any fantasy setting.
 
 This module was designed for use with the [HârnMaster](https://foundryvtt.com/packages/hm3) system, but is mostly system agnostic so it can be used with any system (except the Actors, which are specific to the HârnMaster system).
