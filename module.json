@@ -2,7 +2,7 @@
   "name": "hm-loc-sbi",
   "title": "Harn Standing Bear Inn",
   "description": "Location details and characters for the Standing Bear Inn in Olokand",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
   "bugs": "https://github.com/toastygm/hm-loc-sbi/issues",
@@ -21,27 +21,21 @@
     {
       "label": "Standing Bear Inn - Scenes",
       "entity": "Scene",
-      "name": "standing-bear-inn-scenes",
-      "path": "packs/standing-bear-inn-scenes.db"
+      "name": "scenes",
+      "path": "packs/scenes.db"
     },
     {
       "label": "Standing Bear Inn - Actors",
       "entity": "Actor",
-      "name": "standing-bear-inn-actors",
-      "path": "packs/standing-bear-inn-actors.db",
+      "name": "actors",
+      "path": "packs/actors.db",
       "system": "hm3"
     },
     {
       "label": "Standing Bear Inn - Journal",
       "entity": "JournalEntry",
-      "name": "standing-bear-inn-journal",
-      "path": "packs/standing-bear-inn-journal.db"
-    },
-    {
-      "label": "Standing Bear Inn - Locations",
-      "entity": "JournalEntry",
-      "name": "standing-bear-inn-locations",
-      "path": "packs/standing-bear-inn-locations.db"
+      "name": "journals",
+      "path": "packs/journals.db"
     }
   ],
   "dependencies": [
@@ -53,7 +47,7 @@
   ],
   "url": "https://github.com/toastygm/hm-loc-sbi/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-sbi/master/module.json",
-  "download": "https://github.com/toastygm/hm-loc-sbi/archive/v1.0.0.zip",
+  "download": "https://github.com/toastygm/hm-loc-sbi/archive/v1.1.0.zip",
   "flags": {
     "allowBugReporter": true
   }

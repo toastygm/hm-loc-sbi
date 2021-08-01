@@ -13,7 +13,7 @@
    * Set to the following to disable:
    *   const additionalJournals = [];
    */
-  const additionalJournals = ['Credits'];
+  const additionalJournals = [];
   /**
    * additionalMacros will automatically be imported.
    * Set to the following to disable:
@@ -25,13 +25,13 @@
    * Set to the following to disable:
    *   const creaturePacks = [];
    */
-  const creaturePacks = [`${moduleName}.standing-bear-inn-actors`];
+  const creaturePacks = [`${moduleName}.actors`];
   /**
    * journalPacks is a list of compendium packs to look in for Journals by name (in prioritised order).
    * Set to the following to disable:
    *   const journalPacks = [];
    */
-  const journalPacks = [`${moduleName}.standing-bear-inn-locations`, `${moduleName}.standing-bear-inn-journal`];
+  const journalPacks = [`${moduleName}.journals`];
   /**
    * macroPacks is a list of compendium packs to look in for Macros by name (in prioritised order).
    * The first entry here assumes that you have a Macro pack in your module with the "name" of "macros".
