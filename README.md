@@ -13,10 +13,6 @@ This module was designed for use with the [HârnMaster](https://foundryvtt.com/p
 
 ## Standing Bear Inn
 
-Inn Grounds
-
-<img src="assets/scenes/sbi-ground.webp" alt="Standing Bear Inn Grounds" width="600"/>
-
 Inn Cellar
 
 <img src="assets/scenes/inn-0.webp" alt="Standing Bear Inn Cellar" width="600"/>
