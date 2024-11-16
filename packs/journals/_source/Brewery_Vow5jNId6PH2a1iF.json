@@ -1,0 +1,265 @@
+{
+  "name": "Brewery",
+  "pages": [
+    {
+      "name": "[B1] Warehouse",
+      "type": "text",
+      "text": {
+        "content": "<p>The lower level holds recently filled casks along with wood for the ovens and grain stockpiled for brewing. When barley is being germinated, the room can get very crowded.</p>",
+        "format": 1
+      },
+      "_id": "zInYTUmkLziVWIil",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Vow5jNId6PH2a1iF.zInYTUmkLziVWIil"
+    },
+    {
+      "name": "[B2] Tourney Bar",
+      "type": "text",
+      "text": {
+        "content": "<p>As in the tourney kitchen, a fold-down serving counter faces Mycepris Square to allow ale to be sold directly to customers. The brewery offers ale from casks brewed before the tournament or “green” ale directly from the fermenters. The green ale is popular but sells out quickly; it takes a few days to brew a new batch.</p>",
+        "format": 1
+      },
+      "_id": "aFHXnPtSbXG8waJu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Vow5jNId6PH2a1iF.aFHXnPtSbXG8waJu"
+    },
+    {
+      "name": "[B3] Fermenters",
+      "type": "text",
+      "text": {
+        "content": "<p>The wort is transferred to the next set of tuns, where it is left to ferment before finally being transferred into casks.</p>",
+        "format": 1
+      },
+      "_id": "hRnhr7rGl47gm5OH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Vow5jNId6PH2a1iF.hRnhr7rGl47gm5OH"
+    },
+    {
+      "name": "[B4] Mash Tuns",
+      "type": "text",
+      "text": {
+        "content": "<p>Malted barley and oats are soaked in two wooden tuns to produce the wort. A trough carries the wort to the fermenters.</p>",
+        "format": 1
+      },
+      "_id": "qOyTpkVn5VhMv6dz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Vow5jNId6PH2a1iF.qOyTpkVn5VhMv6dz"
+    },
+    {
+      "name": "[B5] Ovens",
+      "type": "text",
+      "text": {
+        "content": "<p>Two large ovens are used to roast the germinated barley. They also heat water to a boil in large copper cauldrons above them.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "KAk8BCF6jmpZflF3",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Vow5jNId6PH2a1iF.KAk8BCF6jmpZflF3"
+    },
+    {
+      "name": "[B6] Brew Kettles",
+      "type": "text",
+      "text": {
+        "content": "<p>These large copper cauldrons are filled with well water and heated by the ovens below. The brewery has its own internal well to help ensure the water is kept free of contamination. Portable troughs can be used to direct the water from the well across to the far kettle.</p>",
+        "format": 1
+      },
+      "_id": "vCOUxQHXAgEQ1B7n",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Vow5jNId6PH2a1iF.vCOUxQHXAgEQ1B7n"
+    },
+    {
+      "name": "[B7] Brewmaster’s Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>Although the room was originally intended solely for the brewmaster and his staff, Hugo welcomes the inn staff to join him here for a quiet drink at the end of the workday. Intimidated by the burly brewmaster, Haselun was loath to intrude and the gatherings soon became a refuge where the staff could relax away from the crazed innkeeper. The servants and brewery staff take their meals here.</p>",
+        "format": 1
+      },
+      "_id": "Xt7cMVqZUuyavw3C",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Vow5jNId6PH2a1iF.Xt7cMVqZUuyavw3C"
+    },
+    {
+      "name": "[B8] Staff Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>Journeyman innkeeper Faera and Kym the barman each have a single bed here. The bunk bed is reserved for Hugo’s journeyman, Bradlak (22), and apprentice, Shawe (14). Master Hugo is a generous and considerate master and both young men consider themselves very fortunate to be trained by him. Bradlak is well on his way to becoming an excellent brewmaster.</p>",
+        "format": 1
+      },
+      "_id": "12oNlkjr4b871IwZ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Vow5jNId6PH2a1iF.12oNlkjr4b871IwZ"
+    },
+    {
+      "name": "[B9] Private Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>Hugo and Jonil have always shared this room, even before Faera and Kym moved in. The staff are all well aware of the two men’s relationship but guard their secret in thanks for Hugo protecting them from the worst of Haselun’s excesses. Jonil is an exceptional cook but slow and methodical. He frequently makes his delicious honey bread in the brewery ovens. It rarely lasts long, but he is sure to set a loaf aside for Wynda.</p>",
+        "format": 1
+      },
+      "_id": "kBTf4G4gihE7VUhi",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Vow5jNId6PH2a1iF.kBTf4G4gihE7VUhi"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206078372,
+    "modifiedTime": 1659206078372,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "Vow5jNId6PH2a1iF",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!Vow5jNId6PH2a1iF"
+}

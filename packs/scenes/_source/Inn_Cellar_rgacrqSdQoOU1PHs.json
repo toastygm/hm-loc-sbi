@@ -1,0 +1,633 @@
+{
+  "_id": "rgacrqSdQoOU1PHs",
+  "name": "Inn Cellar",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": "worlds/conv/assets/scenes/rgacrqSdQoOU1PHs-thumb.webp",
+  "width": 1207,
+  "height": 1708,
+  "padding": 0.1,
+  "initial": {},
+  "backgroundColor": "#999999",
+  "grid": {
+    "size": 100,
+    "type": 1,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1635263855503,
+  "globalLight": false,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "drawings": [
+    {
+      "_id": "pV08VtCtXRQ7P2Jv",
+      "author": "wxihGFCRUx8SMnah",
+      "x": 688,
+      "y": 888,
+      "rotation": 0,
+      "z": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#c7cc28",
+      "fillAlpha": 0.5,
+      "strokeWidth": 8,
+      "strokeColor": "#000000",
+      "strokeAlpha": 1,
+      "texture": null,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#FFFFFF",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": false,
+      "flags": {
+        "multilevel-tokens": {
+          "in": true,
+          "out": true,
+          "teleportId": "Inn0-1",
+          "snapToGrid": true,
+          "animate": false,
+          "activateViaMapNote": false,
+          "local": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false,
+          "disabled": false,
+          "tintColor": ""
+        }
+      },
+      "text": "▶ Inn0-1 ▶",
+      "shape": {
+        "type": "r",
+        "width": 237,
+        "height": 87,
+        "points": [],
+        "radius": null
+      },
+      "_key": "!scenes.drawings!rgacrqSdQoOU1PHs.pV08VtCtXRQ7P2Jv"
+    },
+    {
+      "_id": "735tGYcOuf8zAnjU",
+      "author": "wxihGFCRUx8SMnah",
+      "x": 275,
+      "y": 1475,
+      "rotation": 0,
+      "z": 0,
+      "bezierFactor": 0,
+      "fillType": 1,
+      "fillColor": "#ffff00",
+      "fillAlpha": 0.5,
+      "strokeWidth": 2,
+      "strokeColor": "#ff0000",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "1",
+      "fontFamily": "Signika",
+      "fontSize": 18,
+      "textColor": "#ff0000",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": false,
+      "flags": {
+        "levels": {
+          "drawingMode": 0,
+          "elevatorFloors": "",
+          "rangeTop": null,
+          "rangeBottom": null
+        }
+      },
+      "shape": {
+        "type": "e",
+        "width": 38,
+        "height": 37,
+        "points": [],
+        "radius": null
+      },
+      "_key": "!scenes.drawings!rgacrqSdQoOU1PHs.735tGYcOuf8zAnjU"
+    },
+    {
+      "_id": "b4zalRTDJTJo8vtY",
+      "author": "wxihGFCRUx8SMnah",
+      "x": 475,
+      "y": 1075,
+      "rotation": 0,
+      "z": 0,
+      "bezierFactor": 0,
+      "fillType": 1,
+      "fillColor": "#ffff00",
+      "fillAlpha": 0.5,
+      "strokeWidth": 2,
+      "strokeColor": "#ff0000",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "2",
+      "fontFamily": "Signika",
+      "fontSize": 18,
+      "textColor": "#ff0000",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": false,
+      "flags": {
+        "levels": {
+          "drawingMode": 0,
+          "elevatorFloors": "",
+          "rangeTop": null,
+          "rangeBottom": null
+        }
+      },
+      "shape": {
+        "type": "e",
+        "width": 38,
+        "height": 37,
+        "points": [],
+        "radius": null
+      },
+      "_key": "!scenes.drawings!rgacrqSdQoOU1PHs.b4zalRTDJTJo8vtY"
+    },
+    {
+      "_id": "1117ysEM9MLOPv3N",
+      "author": "wxihGFCRUx8SMnah",
+      "x": 475,
+      "y": 775,
+      "rotation": 0,
+      "z": 0,
+      "bezierFactor": 0,
+      "fillType": 1,
+      "fillColor": "#ffff00",
+      "fillAlpha": 0.5,
+      "strokeWidth": 2,
+      "strokeColor": "#ff0000",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "3",
+      "fontFamily": "Signika",
+      "fontSize": 18,
+      "textColor": "#ff0000",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": false,
+      "flags": {
+        "levels": {
+          "drawingMode": 0,
+          "elevatorFloors": "",
+          "rangeTop": null,
+          "rangeBottom": null
+        }
+      },
+      "shape": {
+        "type": "e",
+        "width": 38,
+        "height": 37,
+        "points": [],
+        "radius": null
+      },
+      "_key": "!scenes.drawings!rgacrqSdQoOU1PHs.1117ysEM9MLOPv3N"
+    }
+  ],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "_id": "pmwul35tLzy9D4IF",
+      "entryId": "jkVk6upnvlCeWcuE",
+      "x": 300,
+      "y": 1500,
+      "iconSize": 75,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "S01",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-sbi/assets/journal-icon-numbers/4392163a_S01.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "XMjjTzSyU18AlgQn",
+      "text": "[S01] Ramp",
+      "global": false,
+      "_key": "!scenes.notes!rgacrqSdQoOU1PHs.pmwul35tLzy9D4IF"
+    },
+    {
+      "_id": "Qb6Dx0s1BJ6I2iD1",
+      "entryId": "jkVk6upnvlCeWcuE",
+      "x": 500,
+      "y": 1100,
+      "iconSize": 75,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "S02",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-sbi/assets/journal-icon-numbers/55c01899_S02.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "icIkZ4TElBl9u7Pg",
+      "text": "[S02] Internal Well",
+      "global": false,
+      "_key": "!scenes.notes!rgacrqSdQoOU1PHs.Qb6Dx0s1BJ6I2iD1"
+    },
+    {
+      "_id": "vP0hG1AgNPyViPWk",
+      "entryId": "jkVk6upnvlCeWcuE",
+      "x": 500,
+      "y": 800,
+      "iconSize": 75,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "S03",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-sbi/assets/journal-icon-numbers/57033eb4_S03.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "qYhSyehy562gYrfj",
+      "text": "[S03] Cellar",
+      "global": false,
+      "_key": "!scenes.notes!rgacrqSdQoOU1PHs.vP0hG1AgNPyViPWk"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [
+    {
+      "_id": "mv2IdX7XVDwe6ZE1",
+      "c": [
+        207,
+        1859,
+        211,
+        686
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.mv2IdX7XVDwe6ZE1"
+    },
+    {
+      "_id": "U8NVIBHjn7LFkob6",
+      "c": [
+        211,
+        686,
+        386,
+        686
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.U8NVIBHjn7LFkob6"
+    },
+    {
+      "_id": "3xMePYUdTVglDm9l",
+      "c": [
+        399,
+        411,
+        1349,
+        423
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.3xMePYUdTVglDm9l"
+    },
+    {
+      "_id": "ByYsN2Ew32YScogb",
+      "c": [
+        1349,
+        423,
+        1349,
+        986
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.ByYsN2Ew32YScogb"
+    },
+    {
+      "_id": "Rj4IkpSErQovCapo",
+      "c": [
+        1349,
+        986,
+        511,
+        986
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.Rj4IkpSErQovCapo"
+    },
+    {
+      "_id": "fa3t4RY953pRXcHf",
+      "c": [
+        511,
+        986,
+        399,
+        986
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 1,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.fa3t4RY953pRXcHf"
+    },
+    {
+      "_id": "Po9fla4iWbCHgtFa",
+      "c": [
+        399,
+        986,
+        399,
+        1873
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.Po9fla4iWbCHgtFa"
+    },
+    {
+      "_id": "TNBpHVAXDDEanxMI",
+      "c": [
+        207,
+        1859,
+        399,
+        1873
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.TNBpHVAXDDEanxMI"
+    },
+    {
+      "_id": "begYTi2Wq32uQG1d",
+      "c": [
+        624,
+        986,
+        624,
+        1223
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.begYTi2Wq32uQG1d"
+    },
+    {
+      "_id": "bbP5ViiSqzklnkal",
+      "c": [
+        624,
+        1223,
+        399,
+        1223
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.bbP5ViiSqzklnkal"
+    },
+    {
+      "_id": "XYPXIGcjiINEoEK3",
+      "c": [
+        512,
+        887,
+        911,
+        886
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 0,
+      "sight": 0,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.XYPXIGcjiINEoEK3"
+    },
+    {
+      "_id": "3LJ7CpQDUm4tWBup",
+      "c": [
+        911,
+        886,
+        911,
+        986
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.3LJ7CpQDUm4tWBup"
+    },
+    {
+      "_id": "8qaXLHxy8JrkVepk",
+      "c": [
+        399,
+        986,
+        299,
+        986
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 1,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.8qaXLHxy8JrkVepk"
+    },
+    {
+      "_id": "ERpKNieVTWNN2cKq",
+      "c": [
+        299,
+        986,
+        211,
+        986
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 1,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.ERpKNieVTWNN2cKq"
+    },
+    {
+      "_id": "wIlnRuHMmXpuKIy9",
+      "c": [
+        386,
+        686,
+        399,
+        411
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!rgacrqSdQoOU1PHs.wIlnRuHMmXpuKIy9"
+    }
+  ],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "weather": "",
+  "flags": {
+    "hm-loc-sbi": {
+      "imported": "1.2.0"
+    },
+    "scene-packer": {
+      "source-module": "hm-loc-sbi",
+      "packed-with-version": "2.3.17",
+      "sourceId": "Scene.iiRkO5L1csmpRnsO",
+      "hash": "c16ce10764021a03c1e76912f066227dd473c795"
+    },
+    "core": {
+      "sourceId": "Compendium.hm-loc-sbi.scenes.rgacrqSdQoOU1PHs"
+    },
+    "cf": {
+      "id": null,
+      "path": "Harn Standing Bear Inn",
+      "color": "#000000"
+    }
+  },
+  "background": {
+    "src": "modules/hm-loc-sbi/assets/scenes/inn-0.webp",
+    "offsetX": 0,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206102449,
+    "modifiedTime": 1659206102449,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "_key": "!scenes!rgacrqSdQoOU1PHs"
+}

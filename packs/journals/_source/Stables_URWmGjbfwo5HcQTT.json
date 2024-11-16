@@ -1,0 +1,103 @@
+{
+  "name": "Stables",
+  "pages": [
+    {
+      "name": "[H1] Stable",
+      "type": "text",
+      "text": {
+        "content": "<p>The large, detached stable is constructed of masonry and timber with a wood shingle roof. The ground floor has stalls for 12 horses, and Narandin has space for an additional 12 horses at a separate stable on the opposite side of the West Common. Carriages are parked in the inn’s walled courtyard.</p>",
+        "format": 1
+      },
+      "_id": "WXjvJI9n6LqYsnSk",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!URWmGjbfwo5HcQTT.WXjvJI9n6LqYsnSk"
+    },
+    {
+      "name": "[H2] Ostler’s Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>Freemaster ostler Narandin of Othendel and his assistants occupy this spacious and comfortable room. At present, Narandin employs one journeyman, Rhen of Durgal, 23, and an apprentice, Coryn of Prost, 18. During the busy tournament, the room is often rented out to visiting nobles; Narandin and his assistants move into the hayloft for the duration.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "FKx9MDrUG7nZxXvi",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!URWmGjbfwo5HcQTT.FKx9MDrUG7nZxXvi"
+    },
+    {
+      "name": "[H3] Stables - Hayloft",
+      "type": "text",
+      "text": {
+        "content": "<p>A pair of doors with a sturdy block and tackle allows hay to be hoisted up and brought into the loft for storage. On the occasions where a noble with a large entourage is staying at the inn, the loft can serve as additional sleeping for common-born servants.</p>",
+        "format": 1
+      },
+      "_id": "OSUWEPFtksuExZCn",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!URWmGjbfwo5HcQTT.OSUWEPFtksuExZCn"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206078371,
+    "modifiedTime": 1659206078371,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "URWmGjbfwo5HcQTT",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!URWmGjbfwo5HcQTT"
+}

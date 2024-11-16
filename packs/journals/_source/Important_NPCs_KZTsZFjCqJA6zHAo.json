@@ -1,0 +1,706 @@
+{
+  "name": "Important NPCs",
+  "pages": [
+    {
+      "name": "Caelan of Marwydd Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_327-1_Salter.webp",
+      "type": "image",
+      "image": {
+        "caption": "Caelan of Marwydd"
+      },
+      "_id": "2DjmiSxAkz7h9sCd",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.2DjmiSxAkz7h9sCd"
+    },
+    {
+      "name": "Caelan of Marwydd",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_327-1_Salter.webp",
+      "type": "text",
+      "image": {
+        "caption": "Caelan of Marwydd"
+      },
+      "_id": "4UPs35Q2KloCR2P8",
+      "text": {
+        "content": "<p><img style=\"width:200px\" src=\"modules/hm-loc-sbi/assets/images/FFF_327-1_Salter.webp\" /></p>\n<p>A Jarin man in his mid- to late-20s, Caelan is outwardly a well-meaning but confused immigrant from Orbaal with a poor grasp of Hârnic. While the language barrier leads to some misunderstandings, he has proven to be a hard worker, eager to please and seemingly oblivious to Haselun’s prejudices. He holds the rank of journeyman, acting as a server, helping to move the baggage of nobles, and performing a variety of tasks around the busy inn.</p>\n<p>In reality, Caelan is a skilled agent of the Aenghysa, a Jarin resistance group. Although the group’s activities are largely confined to Orbaal, Caelan was sent south to spy on the nobles of Kaldor and make arrangements with the local Lia-Kavair (see Olokand #11) for the smuggling of weapons in exchange for proscribed drugs from the north. His confused foreigner act is quite skillful and few give him credit for being anything more, nor do they tend to be as guarded in their conversations when he is nearby.</p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Male</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Adult</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>5 ft 5 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>141 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Hazel</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Pleasant</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>Journeyman Innkeeper</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Some</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>Knife</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h2>Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 327-1 Salter</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td>7 Peonu 693</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 26, height 5’ 5”, medium frame, weight 141 lb, average appearance, dark complexion, black hair, hazel eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td>Musophobia (fear of mice/rats), Moderate (Will x3)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Average quality wool tunic and leggings, leather shoes, knife.</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>59d in silver in a money pouch; concealed in his quarters is a belt with twelve gold Khuzan Crowns (2880d) sewn inside it. This is to buy weapons for Aenghysa.</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td>Never reveals he speaks Orbaalese; pretends he speaks Hârnic poorly. While Caelan often appears clumsy, he never seems to be hurt by the falls; this is because of his acting and acrobatic skills. To excuse Caelan’s comic ineptitude, Haselun will often say, “He’s from Lorkin,” as if that explains everything.</td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Caelan is a server, assistant, and general dogsbody at the Standing Bear Inn in Olokand, Kaldor. He seems to be a well-meaning but disorganized and confused Jarin from Orbaal with poor grasp of Hârnic and Kaldoric customs. The innkeeper, Haselun [FFF 312-2], verbally and physically abuses him. Caelan is afraid of his master’s quick temper, yet frequently expresses his appreciation at being given employment and is proud of what little Hârnic he knows. Everything about this is a lie.</p>\n<p>A salter by trade, Caelan grew up village of Fornin near Sherwyn Keep in Orbaal. His real clan name is Russe. For generations, his clan has worked the brine springs outside of the village. Caelan apprenticed to his uncle in Sherwyn and then was sent to Lorkin to complete his journeyman training under Mirard of Traegarth [see Lorkin #16]. In Lorkin, he witnessed the full cruelty of the Ivinian overlords. His master was a thrall to Gard Geldassel. At an underground Ilviran service, Caelan also learned of the Aenghysa (“Ourselves Alone”) Jarin resistance group.</p>\n<p>After completing his journeyman’s training, Caelan claimed he was heading to Arone to catch a ship back to Sherwyn. He left Lorkin and was never seen again. He had arranged to meet trapper Taumbon of Jamyne [see Lorkin #12] and was led to Gedan. Recognizing Caelan’s fluency in several languages and his literacy, the Aenghysa leader decided that the young guildsman would be more valuable as an agent in Kaldor: spying on nobles, raising money from Jarin refugees, and coordinating weapon smuggling. Caelan was happy to do as he was asked.</p>\n<p>The Aenghysa provided Caelan with forged credentials. While the forgeries are pretty average, Haselun didn’t look too closely; he was more interested in the fact that the Jarin works cheap. He pays Caelan half what he pays the Kaldoric journeymen and treats him worse. Caelan does a fine job playing the bewildered foreigner.</p>\n<h2>Adventure Hooks</h2>\n<p>Returning Home. Caelan has assembled a large shipment of weapons, enough swords, axe heads, spearheads, and arrowheads to load down four mules. He is planning to personally escort them back to Jara (the Jarinese name for Orbaal) to his brothers in the resistance. He is looking for trustworthy, but not too nosey, companions.</p>\n<p>Not What He Seems. While visiting the Standing Bear Inn, the PCs have been served by a friendly, but seemingly clueless Jarin server. Speaking broken Hârnic, he got their orders wrong, but was very apologetic. One evening, the PCs see the server acting furtive and then slipping into an alley. They hear him speaking to another man in clear and understandable Hârnic. If confronted, Caelan immediately slips back into the dumb Jarin act.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>\n<p> </p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.4UPs35Q2KloCR2P8"
+    },
+    {
+      "name": "Esyra of Khel Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_312-4_Innkeeper.webp",
+      "type": "image",
+      "image": {
+        "caption": "Esyra of Khel"
+      },
+      "_id": "7wHJptyn0SCFIqN2",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.7wHJptyn0SCFIqN2"
+    },
+    {
+      "name": "Esyra of Khel",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_312-4_Innkeeper.webp",
+      "type": "text",
+      "image": {
+        "caption": "Esyra of Khel"
+      },
+      "_id": "2YHGAdqho0cc1HHS",
+      "text": {
+        "content": "<p><img style=\"width:300px\" src=\"modules/hm-loc-sbi/assets/images/FFF_312-4_Innkeeper.webp\" /></p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Female</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Adult</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>5 ft 9 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Heavy</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>282 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>Brown</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Gray</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Excellent</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>Journeyman Innkeeper</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Some</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>Inn staff and children</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>Obese, left-handed</td>\n</tr>\n</tbody>\n</table>\n<h2 style=\"clear:left\">Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 312-4 Innkeeper</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td>12 Agrazhar 685</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 34, height 5’ 9”, heavy frame, weight 282 lb, plain appearance, medium complexion, brown hair, gray eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td>Obese, left-handed</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>9</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Good quality wool dress and linen under tunic, leather apron, belt and shoes, meat cleaver</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>46d silver in a coin purse</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td>Having learned to read as an adult, Esyra has always struggled with her ‘letters.’</td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>The ninth of 13 children, Esyra life has always revolved around her immediate and extended family. She has siblings, cousins, and more, all across Meselyneshire. When an obscure village is mentioned, she will often pipe up from the kitchen, “Oh, my cousin lives there.” These numbers have only grown since she married Melgar. He comes from a family of 14 children. Together, they have a modest nine children ranging from age 16 down to 5. Melgar is a teamster and regularly away for work. Her eldest daughter Briele watches the little ones, but they often come to see their mom at the Standing Bear Inn (in Olokand, Kaldor) where she works.</p>\n<p>Esyra’s parents were servants at Cleriel Manor. She started learned to cook from her mother, eventually finding employment in a guildsman’s household in Olokand. Wynda [FFF 399-3] went for dinner there and was delighted with the meal. She promptly poached Esyra as the new head cook for the inn. Esyra is perfectly happy with the rank of journeyman. Wynda makes sure she well paid.</p>\n<p>A devout Peonian, Esyra spends holy days assisting at the temple across Mycepris Square. She is a lay assistant in the church and leader of the choir. Esyra loves to sing while she works. She leads the ‘kitchen crew’ in a dizzyin array of songs. Their musical prowess is well known (and appreciated) by the patrons of the inn.</p>\n<p>The combination of a vast extended family, her work at the Peonian temple, meeting travelers at the inn, and being an extremely popular and gregarious extrovert, mean that Esyra is one of the most connected people in the shire. She is the person to talk to if you want to know what is going on. For her favorite people, she is known for bringing out the ‘good baking’ to get them talking. While Haselun grumbles when he sees her sitting and talking to guests, he doesn’t dare say anything. The food has never been better and the kitchen is always in tiptop shape. Wynda has made it clear; they can’t afford to lose her. Well, that, and the last time he tried to chastise her, Esyra chased him out the front door with a cleaver!</p>\n<h2>Adventure Hooks</h2>\n<p>Children Underfoot. The PCs are visiting the inn. There are numerous children coming in and out of the kitchen. One of the young boys, Rohn, comes up to them and says, “My mom says you are here to [insert secret mission].” It appears their mission is not so secret after a</p>\n<p>Wine And Dine. The PCs want to impress a potential contact. They arrange for an extravagant meal in one of the Standing Bear Inn’s private dining rooms. Esyra outdoes herself. However, she personally oversees the serving staff and lingers a bit too much trying to overhear their business. Is she a spy? If so, for whom?</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.2YHGAdqho0cc1HHS"
+    },
+    {
+      "name": "Faera of Kirst Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_312-3_Innkeeper.webp",
+      "type": "image",
+      "image": {
+        "caption": "Faera of Kirst"
+      },
+      "_id": "Vqlo5fqTfsU6Irek",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.Vqlo5fqTfsU6Irek"
+    },
+    {
+      "name": "Faera of Kirst",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_312-3_Innkeeper.webp",
+      "type": "text",
+      "image": {
+        "caption": "Faera of Kirst"
+      },
+      "_id": "DkzqmMov5CuWRERe",
+      "text": {
+        "content": "<p><img style=\"width:200px\" src=\"modules/hm-loc-sbi/assets/images/FFF_312-3_Innkeeper.webp\" /></p>\n<p>Faera, 22, is an attractive young woman who acts as a server, chambermaid, and general assistant. She is quite competent and level-headed. Her natural talent for languages (she is fluent in Jarinese and Orbaalese) makes her indispensable. Despite her better judgment, her loyalty to Haselun has seen her swept up into his antics on several occasions.</p>\n<p>Her Ilviran faith comes out in her artistic pursuits; she often sketches portraits of staff or guests, and occasionally sells them for additional money. She is teaching herself to paint, a skill that Haselun derides as a waste of time.</p>\n<p> </p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Female</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Adult</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>5 ft 4 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>137 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Attractive</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>Blonde</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Gray</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Excellent</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>Innkeeper</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>Inn staff</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h2>Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 312-3 Innkeeper</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td>2 Ilvin 697</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 22, height 5’ 4”, medium frame, weight 137 lb, attractive appearance, fair complexion, blonde hair, gray eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td> </td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Good quality wool dress and linen under tunic, leather belt and shoes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>99d silver in a coin purse</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Faera has been around inns her whole life. Her parents and siblings all work at inns; though none of them have taken the risky step of seeking promotion to master. Once promoted, the new master must either seek their own franchise (an expensive proposition, far beyond the means of a simple journeyman), or become a bonded innkeeper, cellarer or brewer (positions that often require high-level personal or family connections). Most guild members find the security of being a journeyman more appealing than such risky endeavors; it gives them steady employment and legal status as a (junior) guildsman.</p>\n<p>Faera’s clan on her father’s side comes from Bidow. Her grandparents on her mother’s side are Jarinese refugees, originally from Lethwyn (now Geldeheim). They fled the Ivinian invasion in 667, arriving in Kaldor in 668. Faera’s father works at an inn in Bidow. Her mother keeps their small cottage. Her two brothers work in inns somewhere in southern Hârn. She is not too sure where.</p>\n<p>Employed as a server, chambermaid and general assistant at the Standing Bear Inn (in Olokand, Kaldor), Faera is level-headed and intelligent. She is by far the most sensible member of the staff. Loyal to a fault, she often goes along with the innkeeper’s Haselun [FFF 312-2], latest hare-brained schemes. Faera takes his side over that of his wife, Wynda [FFF 399-3], to avoid being fired.</p>\n<p>Besides being a journeyman innkeeper, Faera is surprisingly talented with languages, speaking fluent Jarinese (which she learned from her grandparents) and Orbaalese (learned from the many traders from the north). In her spare time, she is teaching herself to draw and paint. Faera sleeps above the brewery.</p>\n<h2>Adventure Hooks</h2>\n<p>I’m Not That Kind Of Girl. The PCs are staying at the inn. While not above showing a little skin to encourage tips, Faera is not a prostitute. If a PC gets too cheeky, she responds with a slap and a mug of ale over his head.</p>\n<p>Discrete Likeness. The PCs are following a suspect. They want an image they can show to others. They find out that Faera is an accomplished artist. She will sketch them a very good likeness, for a reasonable fee. Haselun will have a fit if he sees her sketching when she should be working. The PCs will have to keep him busy.</p>\n<p>Excuse Me, Mister. The PCs are being followed by a group of Orbaalese mercenaries. They are seated several tables away and talking amongst themselves in Orbaalese. Little do they know, the pretty server can understand everything they are saying. She passes a note to one of the PCs who look literate informing them that the mercenaries intend to ambush them once they are well out of town, making it look like a brigand attack.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.DkzqmMov5CuWRERe"
+    },
+    {
+      "name": "Haethen \"One-Eye\" Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_125-2_Huscarl_MF.webp",
+      "type": "image",
+      "image": {
+        "caption": "Haethen \"One-Eye\""
+      },
+      "_id": "SdzYWcEa7uAH3WCT",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.SdzYWcEa7uAH3WCT"
+    },
+    {
+      "name": "Haethen \"One-Eye\"",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_125-2_Huscarl_MF.webp",
+      "type": "text",
+      "image": {
+        "caption": "Haethen \"One-Eye\""
+      },
+      "_id": "mBFAlANL0iyGi43k",
+      "text": {
+        "content": "<p><img style=\"width:200px\" src=\"modules/hm-loc-sbi/assets/images/FFF_125-2_Huscarl_MF.webp\" /></p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Male</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Adult</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Viking</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Freeman (unguilded)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>5 ft 9 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Heavy</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>173 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Plain</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>Blond</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Blue</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Pleasant</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>Missing left eye, scars on left side of his face</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>Viking Warrior</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Well-off</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>Broadsword, battle axe, two shorkana, dagger</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>Mail byrnie, round shield, plate half helm</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>Other vikings</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>Beard and moustache</td>\n</tr>\n</tbody>\n</table>\n<h2>Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 125-2 Huscarl MF</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td>16 Navek 681</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 38, height 5’ 9”, heavy frame, weight 173 lb, plain appearance, fair complexion, blond hair, blue eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td>Scar (left side of face), missing left eye</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>7</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Wool cloak, cloth tunic and leggings, leather calf boots, mail byrnie, broadsword, and dagger. Leather gauntlets, plate half-helm, battle axe, two shorkana and a round shield with his horse.</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>223d in silver in a money pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Haethen was slashed in the face on his very first raid as a young man in Ivinia. He recovered remarkably well, though his eye had to be removed. This left a sunken left socket that many find disconcerting. Despite his injury, he became a skilled fighter. He eventually moved to Orbaal, where rose to become warrior in the household of Valhakar Zaarli Hulthard in Arone.</p>\n<p>Known for his unquestioning obedience and absolute ruthlessness, Haethen was quickly promoted to the position of huscarl. A clever man, Haethen took great pains to learn both Jarinese and Hârnic. This combination of personality and skills resulted in him being made the valhakar’s torturer; he excelled in position and was know for his ability to rapidly extract information from Jarinese prisoners. As Zaarli has aged, Haethen has risen from huscarl to confidant and councillor. Haethan’s ambition is obvious. Many suspect he has his (one good) eye on the position of valhakar when the old lord dies.</p>\n<p>The valhakar’s faith in his huscarl is absolute and he entrusts him with many delicate tasks. Haethen has proved very capable of controlling the lord’s Jarin subjects. His reputation precedes him and he rarely has to make threats or raise his voice to get things done. His hollow eyed visage is feared and hated throughout the region.</p>\n<p>Haethen is aware of Jarin resistance group Aenghysa. Through paid informants, he has learned that the rebels are receiving arms and funding from expatriate Jarin community in Kaldor. He is planning to travel to Kaldor, using attendance at the Royal Chelebin Tournament of Chivalry in Olokand as an excuse.</p>\n<h2>Adventure Hooks</h2>\n<p>Friendly Traveller. The PCs encounter an Ivinian with only one eye. He is speaks Hârnic moderately well and is happy to travel with them; he will fight together with them if necessary. He seems very interested in Jarin refugees and their activities.</p>\n<p>Outnumbered And Losing. There are noises of combat ahead. The PCs encounter a single armoured man surrounded by seven lightly armed foes. His horse lies dead in the track. Seeing the PCs, Haethen calls for help. The attackers are Jarin who recognised “the torturer of Arone” and set an ambush for him.</p>\n<p>I Have A Few Questions. The PCs are travelling in Orbaal. Haethen is in the same location and notices their activities are suspicious. He will try to make friends with them first. If that fails, he will move to intimidation. His final option will be to have his men seize them and use torture to find out what he wants. If he is somewhere other than Arone, he will do this discretely.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.mBFAlANL0iyGi43k"
+    },
+    {
+      "name": "Haselun of Elathel Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_312-2_Innkeeper.webp",
+      "type": "image",
+      "image": {
+        "caption": "Haselun of Elathel"
+      },
+      "_id": "2MOLabnO5jTMYsrU",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.2MOLabnO5jTMYsrU"
+    },
+    {
+      "name": "Haselun of Elathel",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_312-2_Innkeeper.webp",
+      "type": "text",
+      "image": {
+        "caption": "Haselun of Elathel"
+      },
+      "_id": "Ef6K6NoGJMWGhxkt",
+      "text": {
+        "content": "<p><img style=\"width:200px\" src=\"modules/hm-loc-sbi/assets/images/FFF_312-2_Innkeeper.webp\" /></p>\n<p>Haselun, 38, is a snobbish, pessimistic misanthrope who aspires to become an accepted member of more “respectable” social circles. He sees the successful running of the Standing Bear as a means of achieving this dream. He displays a fawning deference for nobility, especially during the Royal Chelebin Tournament of Chivalry. His treatment of noble guests stands in stark contrast with the spiteful and abusive behavior he often directs at commoners, who he essentially despises. Since the Standing Bear is quite popular with travelers, merchants, and wealthy locals throughout the rest of the year, Haselun often struggles with the need to be pleasant to wealthy commoners. As his wife has sarcastically commented, “he could run a much better inn if he didn’t have all the guests getting in the way.”</p>\n<p>A staunch traditionalist in most respects, Haselun openly disdains the customs and behaviors of many of his common-born guests, and virtually all of his staff. His wife does her best to mitigate this but is frequently exasperated by his failings and becomes verbally abusive. Haselun is intimidated by her temper and goes to desperate lengths to avoid it, creating impromptu, ill- conceived ruses to distract her from whatever mess he’s created.</p>\n<p>Haselun’s schemes often require the reluctant cooperation of his staff, who are also the usual targets of his frustrations. During the busy summer season, he hires a number of additional workers, many of whom are part of the refugee population that fled Orbaal following the Jarin Rebellion of 703 and settled in Meselyneshire with the blessing of the sheriff. Although subjects of the crown, Haselun regards them as “migrant foreigners.”</p>\n<p>Haselun is currently the leader of the Olokand Mangai, which meets monthly but has little influence with the sheriff, Sir Maldan Harabor. For his part, Sir Maldan tries to keep interactions with Haselun as brief and infrequent as possible, preferring to relay messages through subordinates. This distresses Haselun, who tries in vain to impress the sheriff, “even if he is a bastard.”</p>\n<p> </p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Male</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Middle Aged</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>6 ft 5 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Light</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>176 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>Brown</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Hazel</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>Innkeeper</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Well off</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>Dagger</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>Wife and staff</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h2>Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 312-2 Innkeeper</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td>27 Halane 681</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 38, height 6’ 5”, light frame, weight 176 lb, average appearance, fair complexion, brown hair, hazel eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td> </td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>7</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Excellent quality cloth tunic and leggings, leather shoes, dagger</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>122d silver in a coin purse</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td>Haselun affects a very precise, upper class accent and vocabulary.</td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Haselun’s grandfather was a knight; the youngest son of a bailiff. The best he could manage for his third daughter was to marry her off to an innkeeper. She died when Haselun was just six years old. Since boyhood, Haselun has been determined to return his family to nobility.</p>\n<p>Tall, gangly, and not very well coordinated; Haselun reached the height of 6’5” by age 13. His father shipped him off to Tashal to work as an apprentice and then journeyman innkeeper. While in Tashal, he did a stint in the city militia. He was not much of a soldier, most relegated to being the company cook. As part of the feudal levy, his company was assigned to assist the Chelmarch Army patrolling the Salt Route. The Kath ambushed them. Only the timely arrival of a squadron of knights saved them, earning his eternal gratitude.</p>\n<p>Upon becoming a master, he returned to Olokand to work for his father. During one of the Royal Chelebin Tournaments, he fell in love with Wynda [FFF 399-3], the middle daughter of a gentleman. He dreamed they could return their families to nobility. Their relationship has been stormy, his desire to move up the social ladder and distain for commoners clashes with her utter pragmatism and down-to-earth nature. They have two children, son Celed, 16 (named for his great-grandfather) and daughter Danisa, 15 (named for her great-grandmother). Both are doing apprenticeships in other towns, as far from their father as their mother could arrange.</p>\n<p>Haselun’s father died of a heart attack at age 50. He left the Standing Bear Inn (in Olokand) to his son. It is a large, well respected, and successful inn and the place to stay during the tournament. Haselun insists that only nobility say in the inn during that time (and their entourages, if they must). During the rest of the year, to pay the bills, Wynda insists they allow well-to-do commoners, the great unwashed, to stay there, much to his disgust.</p>\n<h2>Adventure Hooks</h2>\n<p>Hidden Romantic. Despite their stormy relationship, Haselun really does love Wynda. He wants to surprise her with a visit from their children. He hires the PCs to fetch them from where they are currently working (location up to the GM). Needless to say, they are not thrilled to travel home for a holiday.</p>\n<p>Really, The Best Candidate? Haselun is currently the head of the Olokand Mangai, a largely ineffective organization. The Sheriff of Olokand has little time for the organization and no one else wanted the job. However, after several years under Haselun’s “leadership” the oth guildsmen want anyone else. Haselun hires the PCs to help find enough votes to get him returned for another term. It is a thankless job but he pays very well.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.Ef6K6NoGJMWGhxkt"
+    },
+    {
+      "name": "Hugo of Bardenas Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_312-6_Innkeeper.webp",
+      "type": "image",
+      "image": {
+        "caption": "Hugo of Bardenas"
+      },
+      "_id": "RgAutXTA85GuyvNF",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.RgAutXTA85GuyvNF"
+    },
+    {
+      "name": "Hugo of Bardenas",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_312-6_Innkeeper.webp",
+      "type": "text",
+      "image": {
+        "caption": "Hugo of Bardenas"
+      },
+      "_id": "SXMhmnjx9SBkAndC",
+      "text": {
+        "content": "<p><img style=\"width:200px\" src=\"modules/hm-loc-sbi/assets/images/FFF_312-6_Innkeeper.webp\" /></p>\n<p>Hugo the brewmaster is originally from Aleath in Kanday and is the uncle of Urso of Bardenas [Aleath B15]. A master innkeeper himself, Hugo’s true passion is brewing ale. He and his nephew both learned the skill from his father (Urso’s grandfather), who traveled extensively and brought back several new techniques. Like Urso, Hugo is a massive man, although a good life and plenty of ale have caused him to put on a bit of fat as he ages. Still immensely strong, Hugo is 6’4” and 260 lb. Now in his 60s, he still slings sacks of grain and manhandles barrels of ale with remarkable ease.</p>\n<p>Hugo is well liked in the community. His pleasant demeanor, quiet and polite nature, and quick wit with a joke have earned him many friends. These same characteristics and his intimidating strength have made him completely and utterly immune to Haselun’s ranting and raving. Hugo and Wynda get along famously. It is their combined abilities that thwart Haselun’s most idiotic ideas.</p>\n<p>Although technically bonded to Haselun’s franchise, Hugo runs the brewery almost as a separate establishment. He knows exactly what is needed to prepare for the tournament. He orders his own materials and starts brewing when he is ready to and not a moment before.</p>\n<p>Hugo’s “companion” is a middle-aged man named Jonil of Sarion. Originally from the Gardiren area, Jonil works in the brewery. He is a journeyman innkeeper and the assistant brewer but has never sought master status. Most townsfolk suspect that Jonil is more than an employee but the two are discreet. Hugo’s popularity quells most questions. In fact, the two have been lovers for more than 30 years and Jonil is the reason Hugo settled in Kaldor.</p>\n<p> </p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Male</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Elderly</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>6 ft 4 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Heavy</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>260 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>Brown / grey</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Green</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>Obese</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>Master Brewer</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Well Off</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>Journeyman and dog</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h2>Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 312-6 Innkeeper</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td>18 Ilvin 656</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 63, height 6’ 4”, heavy frame, weight 260 lb, average appearance, medium complexion, bald hair, green eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td>Obese, bad right knee (Agility reduced), homosexual</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>9</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Average quality wool tunic and leggings, leather apron, belt and shoes, eating knife, heavy walking stick</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>160d silver in a coin purse</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td>Although still physically very strong, years of lifting and his increasing weight have badly damaged Hugo’s right knee. When walking any distance, Hugo needs to use his walking stick. A few footpads have discovered, lame or not, he can wield it as a serious weapon.</td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Hugo the brewmaster is originally from Aleath in Kanday and is the uncle of Urso of Bardenas [Aleath B15]. A master innkeeper himself, Hugo’s true passion is brewing ale. It is a skill he learned from his father, who travele extensively and brought back several new techniques.</p>\n<p>Inheriting his wanderlust from his father, Hugo travelled extensively in his youth. He lived in Shorkyne, Palithane and Trierzon for a couple years each, leaving him impressively multi-lingual. He is currently learning Jarinese from Caelan. His travels eventually brought him to Gardiren where he met Jonil of Sarion.</p>\n<p>One of the reasons for Hugo’s wanderlust is that he is secretly homosexual. He initially left Aleath when the rumors got too persistent. Hugo fell in love with Jonil (50). The two men have been lovers for more than 30 years and Jonil is the reason Hugo settled in Kaldor. They share a bed and have a black dog named Niksin. Shaped a bit like a barrel, Niksin is very gentle, lovable and a favorite of the staff and customers alike. Niksin has the run of the place and always finds the sunniest spot. The men are discrete about their relationship. Despite being middle-aged, officially, Jonil is just another of Hugo’s journeymen.</p>\n<p>Hugo runs the brewery attached to the Standing Bear Inn in Olokand. Although technically bonded to Haselun’s [FFF 312-2] franchise, Hugo runs the brewery almost as a separate establishment. He knows exactly what is needed to prepare for the tournament. He orders his own materials and starts brewing when he is ready to and not a moment before. The brewery is known far and wide for “Hugo’s Special Ale.” It has a mighty kick, distinctive and effervescence. Only Hugo and Jonil know the secret: double fermenting with honey and sweet herbs.</p>\n<p>Hugo is well liked in the community. His pleasant demeanor, quiet and polite nature, and quick wit with a joke have earned him many friends. These same characteristics and his intimidating strength have made him completely and utterly immune to Haselun’s ranting and raving. Hugo and Wynda [FFF 399-3] get along famously. It is their combined abilities that thwart Haselun’s most idiotic ideas.</p>\n<h2>Adventure Hooks</h2>\n<p>The Gentle Giant. A massive man, Hugo is well known throughout the town. The PCs have got into a scuffle with some of the locals. Hugo steps in, ending it with his sheer presence. He invites the PCs back to the inn.</p>\n<p>Find That Recipe. A rival brewer desperately wants to know Hugo’s secret recipe, so much so that he hires the PCs to infiltrate the inn and brewery and find out the brewer’s method. Only Hugo and Jonil know the technique and they are very careful about hiding it.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.SXMhmnjx9SBkAndC"
+    },
+    {
+      "name": "Kym of Dorsey Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_312-5_Innkeeper.webp",
+      "type": "image",
+      "image": {
+        "caption": "Kym of Dorsey"
+      },
+      "_id": "Yk0WUFG8OchFJHuX",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.Yk0WUFG8OchFJHuX"
+    },
+    {
+      "name": "Kym of Dorsey",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_312-5_Innkeeper.webp",
+      "type": "text",
+      "image": {
+        "caption": "Kym of Dorsey"
+      },
+      "_id": "ZIQqiISLZro94X4D",
+      "text": {
+        "content": "<p><img style=\"width:200px\" src=\"modules/hm-loc-sbi/assets/images/FFF_312-5_Innkeeper.webp\" /></p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Male</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Middle Aged</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>5 ft 10 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Heavy</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>176 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>Shaved bald</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Hazel</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>Poxmarks</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>Journeyman Innkeeper</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Some</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>Club</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>Inn staff</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h2>Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 312-5 Innkeeper</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td>6 Peonu 684</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 35, height 5’ 10”, heavy frame, weight 176 lb, average appearance, medium complexion, bald hair, hazel eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td>Poxmarks (healed), motion sickness</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>7</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Average quality wool tunic and leggings, leather apron, belt and shoes, dagger, club (under the bar)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>46d silver in a coin purse</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td>The Gently Winding Path is an obscure unarmed combat style. See Balm of Joy 4 [COL</td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Born and raised in Thay, Kym is the son of a fisherman. His father tried to get him to follow the family profession, but Kym absolutely hates boats. He gets seasick just looking at one bobbing next to the dock. Kym charted his own course in life. He got a job working at a local tavern at age 13, and was inducted into the guild as an apprentice. The job paid very little, but the tips left him with more silver than his father.</p>\n<p>After being promoted to journeyman, Kym decided to go as far away from the ocean as he could. He followed the Genin Trail up to Kaldor. He moved from inn to inn as the spirit took him. He came to Olokand to see the great tournament. The Standing Bear Inn was short of staff. He started as a server and was soon tending bar. He is a reasonably skilled bartender, but his real talent is telling entertaining stories. There are some real facts woven in, just enough to keep it plausible, but they are mostly tall tales.</p>\n<p>His boss, Haselun [FFF 312-2], only tolerates Kym’s ‘blathering on’ because he is also an excellent salesman. He keeps his audience enthralled and spending silver. Kym builds a story up to a cliffhanger, and then pauses, letting the suspense build while he encourages everyone to buy another ale. He doesn’t resume the story until his audience has paid up. Charismatic and interesting, the inn’s barkeep always has a half a dozen guests clustered around him listening to his latest tale. His ghost stories are especially popular.</p>\n<p>Kym is also the inn’s primary bouncer. When folks get a little too rowdy, he escorts them out. Those that resist, often find themselves suddenly and inexplicably thrown to the floor. Kym is a practitioner of the relatively unknown martial art The Gently Winding Path. He learned it from a Peonian priest visiting Thay from Trierzon when he was a teen. In his spare time, Kym practices these unusual techniques at the back of the inn’s walled courtyard. He and Esyra, the cook [FFF 312-4], are good friends and Kym is a regular parishioner at the Peonian temple.</p>\n<h2>Adventure Hooks</h2>\n<p>Kernel Of Truth. The PCs are travelling through Olokand on mission. While spending the night at the inn, the barkeep regales them with tales of Meselyneshire. One story in particular relates directly to their task. For the right price, Kym can tell them ‘what they want to hear.’</p>\n<p>That Is Enough. One of the PCs gets into a fight with another patron. Kym enters the fray unarmed. Inexplicably the PC and his opponent are suddenly both on the floor and have the wind knocked out of them. Kym directs the other PCs to take their friend home to sleep it off. The next day, they see the barkeep doing strange movements in the courtyard. Is he summoning demons?</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.ZIQqiISLZro94X4D"
+    },
+    {
+      "name": "Naradin of Othendel Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_322-4_Ostler.webp",
+      "type": "image",
+      "image": {
+        "caption": "Naradin of Othendel"
+      },
+      "_id": "4hoXQpCYshxNAQ1n",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.4hoXQpCYshxNAQ1n"
+    },
+    {
+      "name": "Naradin of Othendel",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_322-4_Ostler.webp",
+      "type": "text",
+      "image": {
+        "caption": "Naradin of Othendel"
+      },
+      "_id": "xmQxFyh09yjGgWZw",
+      "text": {
+        "content": "<p><img style=\"width:200px\" src=\"modules/hm-loc-sbi/assets/images/FFF_322-4_Ostler.webp\" /></p>\n<p>Narandin, 56, is a freemaster ostler who operates the stables in partnership with the inn. He and his two assistants tend to the stabling, care, and feeding of guests’ animals, as well as more general ostler’s services for the settlement.</p>\n<p>During the Royal Chelebin Tournament, Narandin hires additional help to manage the routine tasks while he is kept busy attending to warhorses injured during jousts or other contests.</p>\n<p>Since childhood, Narandin has possessed a special gift of empathy for animals, especially horses. Speaking quietly, he is able to calm and assure them with remarkable ease; few are able to replicate his success. An expert at veterinary care, Narandin is well regarded for his skill at healing horses. His reputation for saving animals that others consider beyond hope ensures that he has a steady supply of work.</p>\n<p>Tall and lanky, with gray hair and a beard, Narandin is never seen without his favorite leather hat and a bright red scarf tied around his neck.</p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Male</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Adult</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>6 ft 1 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Light</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>149 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>Grey</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Green</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Excellent</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>Master Ostler</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Well Off</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>Walking stick, dagger</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>Journeyman</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h2>Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 322-4 Ostler</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td>27 Nuzyael 663</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 56, height 6’ 1”, light frame, weight 149 lb, average appearance, medium complexion, grey hair, green eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td> </td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Good quality cloth tunic and leggings, broad leather belt and calf boots, his trademark leather hat and bright red scarf. He has a plain but serviceable dagger, and a walking/fighting stick</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>139d in silver in a money pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Narandin has been around horses his whole life. Since childhood, he has possessed a special gift of empathy for animals, especially horses. Speaking quietly, he is able to calm and assure them with remarkable ease; few are able to replicate his success. An expert at veterinary care, Narandin is well regarded for his skill at healing horses. He has developed a wide repertoire of herbal cures, including poultices and rubs, which are closely, guarded secrets. His reputation for saving animals that others consider beyond hope ensures that he has a steady supply of work.</p>\n<p>Originally from the Jedes area, he was the middle son and unlikely to inherit, so he struck out on his own. A master by age 24, he worked as a bonded master for nobles, other ostlers and inns before arriving in Olokand in 704 TR. The Standing Bear Inn’s bonded ostler was hopeless; Narandin was between jobs. He struck a partnership agreement with the innkeeper; he would take over running the stables as a free master. The deal includes use of the stables and its accommodations; though, he sometimes has to vacate his quarters and sleep in the loft during the Royal Chelebin Tournament.</p>\n<p>A life long bachelor, Narandin prefers the company of horses to people; they are more trustworthy and less demanding. Still, as a very successful master guildsman, with a handsome income, he is the object of interest for several older widows in the town. He has been known to entertain on occasion, but is careful to avoid commitment.</p>\n<p>Narandin has two assistants: a journeyman, Rhen of Durgal (23) and apprentice, Coryn of Prost (18). Privately, they complain he is a poor teacher. He refuses to share the recipes for his secret herbal concoctions, and his techniques for working with horses depend on a level of empathy and trust that most people don’t have. He refuses to use a riding crop or whip on his horses, but he has been known to use them on any apprentice or journeyman who dares to do it to ‘his’ horses.</p>\n<h2>Adventure Hooks</h2>\n<p>Save My Horse! A PC’s favourite horse has been injured. Most recommend that the horse be put down. It is said the Standing Bear Inn’s ostler can save a horse in even the most dire shape…for the right price. Can the PCs afford his prices? If not, he has a task that needs doing.</p>\n<p>Brawl In The Yard. A guildsman comes into the courtyard on broken horse. The horse collapses and the man begins beating it. Narandin comes charging out of the stables, and begins beating the guildsman with a walking stick. The sheriff’s men arrive. Narandin is arrested. The PCs are called as witnesses. It seems an open and shut case. However, Narandin saved the sheriff’s favourite horse and lets him off. The guildsman wants revenge.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.xmQxFyh09yjGgWZw"
+    },
+    {
+      "name": "Sir Gowen Karondal Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_507-8_Fighting_Order_MH.webp",
+      "type": "image",
+      "image": {
+        "caption": "Sir Gowen Karondal"
+      },
+      "_id": "6C3M851PnMAOijGu",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.6C3M851PnMAOijGu"
+    },
+    {
+      "name": "Sir Gowen Karondal",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_507-8_Fighting_Order_MH.webp",
+      "type": "text",
+      "image": {
+        "caption": "Sir Gowen Karondal"
+      },
+      "_id": "nBsDlL6J6IVAAeql",
+      "text": {
+        "content": "<p><img style=\"width:200px\" src=\"modules/hm-loc-sbi/assets/images/FFF_507-8_Fighting_Order_MH.webp\" /></p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Male</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Elderly</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Noble</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>5 ft 11 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Light</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>149 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>White</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Hazel</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>Knight</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Rich</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>Broadsword, dagger</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h2>Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 507-8 Fighting Order MH</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td>6 Agrazhar 644</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 75, height 5’ 11”, light frame, weight 149 lb, average appearance, medium complexion, white hair, hazel eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td>Scars, senility, arthritis, gout</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Fine white robe and leggings, leather shoes, fine matched broadsword and dagger with Laranian markings. He frequently also has a thick red woollen cloak wrapped around his shoulders. He uses an ornately carved and decorated cane, a personal gift from the Archbishop for his “loyalty and wisdom” (120d).</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td> </td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>332d in silver, £2 in gold in a money pouch, silver holy symbol (75d) worn on a chain around his neck. Large gold signet ring bearing the arms of Clan Karondal (240d)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td>Sir Gowen’s attributes and skills have dwindled with age. He was a powerful and skilled warrior in his day. Now, his sword and dagger are merely reminders of his youthful prowess. His other skills reflect a lifetime of experience; though, he can no longer even mount a horse let alone couch a lance. He moves slowly and carefully and will often be found nodding off in front of the Standing Bear Inn’s great hearth.</td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Sir Gowen Karondal is the great-uncle of the current Sheriff of Balimshire, Sir Eris. The youngest son, Gowen left home at aged 16 and joined the Lady of Paladins. He fought in the Salt War. In 675, Sir Gowen volunteered to join King Torastra’s forces invading Chybisa in the Treasure War. He commanded the Lady of Paladins volunteers and earned much renown for his bravery.</p>\n<p>After returning to Kaldor in 676, Sir Gowen served the order in various capacities. His final appointment was command of the Abriel Shield Chapter from 695 – 701, serving under Bishop Ered Curo. Sir Gowen retired at the age of 57. As a venilana (retired knight), he was given a fine cottage to live in and looked forward to a quiet life. Sir Gowen and Bishop Parga Indama (Ered’s successor) got along well.</p>\n<p>Things changed in 714. The new bishop, Ilor Hadan, and Sir Gowen clashed frequently and publicly over Ilor’s philosophy of the “Reluctant Way,” something Sir Gowen found abhorrent. Despite being 70 years old, he stormed out, vowing never to set foot in Abriel as long as Ilor was bishop. Much beloved by his great-nephew, Sir Eris, he could have moved back to clan manor at Hetheron, but he didn’t want to be a bother. Instead, he took up residence a short distance from Abriel in Olokand, at the Standing Bear Inn. Sir Eris pays his room and board and ensures Sir Gowen is well supplied with spending money.</p>\n<p>Now 75 years old, Sir Gowen is getting a bit senile. He loves to regale visitors to the common room with tales of the Salt and Treasure Wars. One of the last surviving Lady of Paladins knights from that era, he is well regarded within the order and members seek him out when they visit Olokand. Despite being generally affable, Sir Gowen bears considerable animosity towards Chybisans, especially those who are also members of the Order of the Lady of Paladins. The innkeeper, Haselun [FFF 312-2], tries to keep them far away from him.</p>\n<h2>Adventure Hooks</h2>\n<p>Mistaken Identity: One of the PCs is having a drink at the Standing Bear Inn and minding their own business. Sir Gowen sits down at the table, calls them by a different name, and starts talking away as if it was 676 at the Siege of Burzyn. Haselun stands behind Sir Gowen trying to encourage the PC to play along with the senile old knight.</p>\n<p>Wealthy Mark. Sir Eris ensures Sir Gowen wants for nothing. As a result, the senile old man is flush with silver. Some might take him as an easy mark. However, the staff is very protective of him. Should any harm actually befall the elderly knight, the perpetrator would earn the enmity of both the Sheriff of Balimshire and the Order of the Lady of Paladins; dangerous enemies indeed.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.nBsDlL6J6IVAAeql"
+    },
+    {
+      "name": "Sir Kaltric Darsyme Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_506-5_Feudal_Knight_MH.webp",
+      "type": "image",
+      "image": {
+        "caption": "Sir Kaltric Darsyme"
+      },
+      "_id": "Ck1kbki3JCwUI7mk",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.Ck1kbki3JCwUI7mk"
+    },
+    {
+      "name": "Sir Kaltric Darsyme",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_506-5_Feudal_Knight_MH.webp",
+      "type": "text",
+      "image": {
+        "caption": "Sir Kaltric Darsyme"
+      },
+      "_id": "fXTG8PMDI7UGQc04",
+      "text": {
+        "content": "<p><img style=\"width:200px\" src=\"modules/hm-loc-sbi/assets/images/FFF_506-5_Feudal_Knight_MH.webp\" /></p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Male</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Adult</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Noble</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>6 ft 3 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Light</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>167 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Attractive</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Green</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>Scar on face</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>Knight</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Well-off</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>Broadsword, dagger</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>Mail byrne, buckler</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>Varies</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h2>Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 506-5 Feudal Knight MH</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td> </td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 22, height 6’ 3”, light frame, weight 167 lb, attractive appearance, medium complexion, black hair, green eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td> </td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>7</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Long sleeve cloth tunic and surcoat, mail hauberk, quilt tunic, leather leggings and gauntlets; broadsword and dagger. When Jousting: Add plate great helm, quilt cowl, knight shield, lance and handaxe</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>182d in silver</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td>Sir Kaltric has a painted Kaldoric horse named Regit.</td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Sir Kaltric is a young man who was knighted just six months ago. His father is Sir Vulin, Lord of Irians manor, a small, single knight’s fee held from the Sheriff of Thel in Sirendel, Kaldor. As the third and youngest son, Sir Kaltric has little hope of any inheritance. A neighbor, Sir Marik Kolarney, squired him. Upon his knighting, he presented him with a fine horse, weapons, armor and a letter of reference. Sir Kaltric offered his services to Sheriff Ranal Gybsen, Sheriff of Thel; he had no need of another knight in his quiet shire.</p>\n<p>For the last six months, Sir Kaltric has presented himself to the Earls of Osel, Vemion and Balim, without any luck. He does not consider himself the stuff of monks, so he has avoided the Order of the Lady of Paladins. His father continues to give him a modest stipend to keep up the family name. However, his father is old and his elder brother, the likely heir, has made it clear Sir Kaltric needs to find some other source of support before his father dies.</p>\n<p>The young knight won the local tourney at Esenor Keep earlier in the year. He deposited the prize money with a Tashal mercantyler in case his brother cuts him off. The prize also included a fine all black hunting dog he has named Usnarl. He is trained to drive deer.</p>\n<p>Kaltric is a very tall, slim, handsome young man. If he had an inheritance, he would be an eminently desirable match for a young noble lady. As a penniless younger son, the parents quickly steer away their daughters away from him. He has had several dalliances with daughters of guildsmen and commoners. He left Hutop quickly when the potter’s daughter claimed she was pregnant with his child. He denies it.</p>\n<h2>Adventure Hooks</h2>\n<p>Lone Knight. The PCs encounter a young noble man sitting by himself at one of the inns in Olokand. He is scheduled to joust the next day, but doesn’t even have a servant to hold his horse and spare lances. He is hoping to do well enough to attract the attention of a baron or earl. He could use a friend.</p>\n<p>Skilled Opponent. A PC is participating in a joust. Their opponent is a very intense, focused young knight. He is determined to unhorse the PC and constantly aims for the helm. Sir Kaltric shows them no mercy. He is a sore loser if the PC wins.</p>\n<p>My Daughter! The PCs are hired by a guildsman. His daughter was ‘ravished’ by this rapscallion (it was completely consensual). She recently gave birth to a son. Now no one wants to marry her and the guildsman wants the PCs to get Sir Kaltric to either pay up or beat him up. This is definitely outside the law.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.fXTG8PMDI7UGQc04"
+    },
+    {
+      "name": "Sir Rablar Tesael Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_506-6_Feudal_Knight_MH.webp",
+      "type": "image",
+      "image": {
+        "caption": "Sir Rablar Tesael"
+      },
+      "_id": "ekymojMaRKTpWX4F",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.ekymojMaRKTpWX4F"
+    },
+    {
+      "name": "Sir Rablar Tesael",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_506-6_Feudal_Knight_MH.webp",
+      "type": "text",
+      "image": {
+        "caption": "Sir Rablar Tesael"
+      },
+      "_id": "52WyI6BvliaSkllJ",
+      "text": {
+        "content": "<p><img style=\"width:200px\" src=\"modules/hm-loc-sbi/assets/images/FFF_506-6_Feudal_Knight_MH.webp\" /></p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Male</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Middle Aged</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Noble</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>5 ft 11 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>165 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>Black</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Hazel</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>Knight</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Well-off</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>Broadsword, dagger</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>Mail hauberk, leggings and cowl</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>Moustache and goatee</td>\n</tr>\n</tbody>\n</table>\n<h2>Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 506-6 Feudal Knight MH</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td>18 Savor 684</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 35, height 5’ 11”, medium frame, weight 165 lb, plain appearance, medium complexion, black hair, hazel eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td>Ambidextrous, alcoholic (Mild: Will x 5)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>6</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Long sleeve cloth tunic, leggings, hood and surcoat, mail hauberk, cowl and leggings, kurbul ailettes, leather gauntlets; broadsword and dagger. When Jousting: Add plate great helm, knight shield, lance and handaxe</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>171d in silver</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>Sir Rablar is the brother of Sir Ulaed, the disgraced former baron of Geda in Chybisa. After his brother lost the family fief by wagering an Orbaalese mercenary he couldn’t lift his horse, Sir Rablar was left without a home or future. He has spent the last seven years travelling.</p>\n<p>Humiliated by his brother’s actions, Sir Rablar travels incognito. He wears no heraldry on his surcoat or shield. He participates in tournaments as a ‘black knight.’ He does carry a surcoat bearing his family heraldry, but if defeated, he prefers to leave quietly rather than put it on. Sir Rablar is not zealous about people not seeing him with his helmet off, as few would recognize him. While the shame is his brother’s, it is the pity of other knights he despise</p>\n<p>Seven years of tournaments have made Sir Rablar a skilled and deadly knight. He usually finishes well up the rankings and wins often enough to support himself and his horse. Sir Rablar does not have a squire. He usually hires a local servant to attend him in tournaments. They are instructed to refer to him as Sir Black.</p>\n<p>Sir Rablar is very familiar with the tournaments in Kaldor, Tharda and Kanday. He deliberately avoids Chybisa and has not been back there since 713 TR. A lonely figure, he would very much like to settle down. If he could find someone willing to take him into their service without prying too deeply into his past, he could become a trusted and valued retainer.</p>\n<p>When visiting Olokand, Sir Rablar prefers to stay at the Standing Bear Inn. He is aware of Sir Gowen’s [FFF 507-8] feelings about Chybisans and has learned to bite his tongue when the old venilana goes on one of his tirades. Sir Rablar has made a conscious effort to lose his Chybisan accent and adopt a neutral, vaguely Thardic one instead. On one occasion, he even slept in Sir Gowen’s room, with the old man unaware he was Chybisan.</p>\n<h2>Adventure Hooks</h2>\n<p>Identity Revealed. Sir Black asks if he can join the PCs for a quiet ale. A group of Chybisan knights enter the inn. They recognize him, referring to him as Sir Rablar Tesael, brother to a moron. It soon escalates into an all out brawl. The PCs are assumed to be his friends and are drawn into the fight.</p>\n<p>Who Was That? A PC has drawn Sir Black as their opponent in a joust. He is honorable and skilled challenger. He fights well. If defeated, he bows and leaves the tournament rather than revealing his colors.</p>\n<p>Knight For Hire. The PCs are looking for extra muscle. Sir Rablar is low on coin and available. He proves to be a formidable warrior. If the PCs earn his trust, he will slowly reveal more about himself. He appreciates good comradeship after travelling alone for so long.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.52WyI6BvliaSkllJ"
+    },
+    {
+      "name": "Wynda of Elathel Image",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_399-3_Other_guild.webp",
+      "type": "image",
+      "image": {
+        "caption": "Wynda of Elathel"
+      },
+      "_id": "6ABOV4PadDD6AvtA",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.6ABOV4PadDD6AvtA"
+    },
+    {
+      "name": "Wynda of Elathel",
+      "src": "modules/hm-loc-sbi/assets/images/FFF_399-3_Other_guild.webp",
+      "type": "text",
+      "image": {
+        "caption": "Wynda of Elathel"
+      },
+      "_id": "x33RAZ6kTlGxFYOy",
+      "text": {
+        "content": "<p><img style=\"width:200px\" src=\"modules/hm-loc-sbi/assets/images/FFF_399-3_Other_guild.webp\" /></p>\n<p>Wynda, 40, is Haselun’s wife and de facto assistant innkeeper. She is, in many respects, a much more effective innkeeper than her husband, being far more concerned with the profitability of the inn than with the social status of the guests. She calmly navigates whatever crisis arises and is quite down-to-earth and efficient.</p>\n<p>Wynda’s skill has frequently prevented disaster when Haselun’s behavior goes too far. On the occasions when her unflappable demeanor cracks, her temper is rarely directed at anyone but her husband. Her fury typically consists of verbal abuse. She has, on occasion, become so infuriated that she’s resorted to physical violence. Haselun is cowed by her temper and tries his best to avoid it, flinching when she barks his name. He’s commented that she is capable of felling a man at ten paces with one of her looks, and refers to her, behind her back, by a variety of epithets, such as “my darling basilisk,” “the gargun queen,” and “lady of dragons.”</p>\n<p> </p>\n<h2>Appearance</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Species</strong></td>\n<td>Human</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Sex</strong></td>\n<td>Female</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Age</strong></td>\n<td>Middle Aged</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Culture</strong></td>\n<td>Feudal</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Social Class</strong></td>\n<td>Freeman (guilded)</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Height</strong></td>\n<td>5 ft 4 in</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Frame</strong></td>\n<td>Medium</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weight</strong></td>\n<td>130 lb</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Hair Colour</strong></td>\n<td>Brown</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Eye Colour</strong></td>\n<td>Hazel</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Voice</strong></td>\n<td>Average</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Obvious Medical Traits</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Occupation</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Apparent Wealth</strong></td>\n<td>Well off</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Weapons</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armour</strong></td>\n<td>None</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Companions</strong></td>\n<td>Husband and staff</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other obvious features</strong></td>\n<td>None</td>\n</tr>\n</tbody>\n</table>\n<h2>Biographical Information</h2>\n<table style=\"width:95%;color:#191813;font-size:13px\" border=\"1\">\n<tbody style=\"box-sizing:border-box\">\n<tr>\n<td style=\"width:145px\"><strong>Title</strong></td>\n<td>FFF 399-3 Other guild</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Birthday</strong></td>\n<td>22 Nolus 679</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Appearance</strong></td>\n<td>Age 40, height 5’ 4”, medium frame, weight 130 lb, average appearance, fair complexion, brown hair, hazel eyes</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Medical/Psyche</strong></td>\n<td> </td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Size</strong></td>\n<td>5</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Armor</strong></td>\n<td>Fine quality wool dress and under tunic; embossed leather belt and matching shoes; eating knife</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Other Equipment</strong></td>\n<td>Belt pouch</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Valuables</strong></td>\n<td>172d in a coin purse</td>\n</tr>\n<tr>\n<td style=\"width:145px\"><strong>Notes</strong></td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<h2>Biography</h2>\n<p>The middle child of three daughters, Wynda was born to a gentle, but landless family. Her father was steward to a minor manor lord, her mother a lady-in-waiting. Raised in a good home, Wynda is energetic, practical, and utterly pragmatic. Her parents tried hard to find her a husband, but her unflinching propensity to bluntly speak her mind and sarcastic wit quickly drove them away.</p>\n<p>By the time she was 23, Wynda’s parents were starting to worry about finding her a husband. Fate intervened. While attending the Royal Chelebin Tournament in Olokand, Wynda met Haselun [FFF 312-2], the son of the Standing Bear Inn’s proprietor. He was tall and gangly, and two years younger than her. Although he was an odd, somewhat eccentric character she was still strangely drawn to him. The feeling was mutual. Haselun was enthralled by this petite, acerbic, ball of fire. In a whirlwind romance lasting less than a tenday, he courted her at every possible moment. At the end of the tournament, he asked her father for Wynda’s hand in marriage. The son of a wealthy innkeeper was better than her parents had hoped for; her father approved. The ceremony occurred two months later at the Laranian temple in Tashal.</p>\n<p>The couple has two children, son Celed (16) and daughter Danisa (15). The passion between the two seems to have dimmed over the years and their relationship is stormy. Haselun often uses faux-romantic terms for her like “the aklash,” “toxic midget,” or “you rancorous fured old sow” (usually behind her back). The terms don’t faze her in the least. In truth, Haselun is intimidated and terrified of her. Wynda is able to cow him at any time, usually with a short, sharp cry of “Haselun!”</p>\n<p>Although not a member of the innkeepers’ guild, she is often a far more effective innkeeper than her husband. She makes sure Haselun gets certain jobs done or stays out of the way when she is handling difficult guests. When Haselun is on the verge of meltdown, it is Wynda who steps in to clear up the mess. Her manor upbringing stands her in good stead when dealing with the nobility.</p>\n<h2>Adventure Hooks</h2>\n<p>The Mistress Of The House. The PCs arrive at the Standing Bear Inn. Wynda welcomes them and assigns them to the Bull Room. As they head up the stairs, they hear Haselun complaining that they are “low-born scum.” He tries to get them to leave. She tells them to stay put. Much chaos ensues.</p>\n<p>Messengers. Wynda has letters and gifts to send to her children working in inns elsewhere (location at the GM’s discretion). When she hears the PCs are heading that way, she offers a generous fee to take them. Haselun is desperate to know what is in the letters and parcels.</p>\n<h2>Credits</h2>\n<p>This character is taken from “Friends, Foes, and Followers, Part 16 Standing Bear Inn” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-part-16-the-standing-bear-inn/), by Kerry Mould and Rob Barnes, with illustrations by Richard Luscheck (sponsored by Rob Barnes and Patrick Nilsson), and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!KZTsZFjCqJA6zHAo.x33RAZ6kTlGxFYOy"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206078370,
+    "modifiedTime": 1659206078370,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "KZTsZFjCqJA6zHAo",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!KZTsZFjCqJA6zHAo"
+}
